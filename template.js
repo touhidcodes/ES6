@@ -18,3 +18,8 @@ const multiLine2 = `Hay
 How are you?
 Are you missing me?`;
 console.log(multiLine2);
+
+const multiLine3 = `Hay
+How are you?
+Are you missing me?`;
+console.log(multiLine3);
