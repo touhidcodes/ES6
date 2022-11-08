@@ -12,7 +12,7 @@ const jannatul = new student("Jannatul", 12);
 
 console.log(touhid, toufik, jannatul);
 
-class student {
+class student2 {
   constructor(sName, sID) {
     this.name = sName;
     this.id = sID;
@@ -20,6 +20,8 @@ class student {
   }
 }
 
-const X = new student("X", 1);
-const Y = new student("Y", 2);
-const Z = new student("Z", 3);
+const X = new student2("X", 1);
+const Y = new student2("Y", 2);
+const Z = new student2("Z", 3);
+
+console.log(X, Y, Z);
