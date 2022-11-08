@@ -16,6 +16,10 @@ class student {
   constructor(sName, sID) {
     this.name = sName;
     this.id = sID;
-    this.school = "BSMRSTU";
+    this.school = "XYZ";
   }
 }
+
+const X = new student("X", 1);
+const Y = new student("Y", 2);
+const Z = new student("Z", 3);
