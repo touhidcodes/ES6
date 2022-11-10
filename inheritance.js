@@ -4,6 +4,7 @@ class fatherName {
     this.fatherName = "AF Fathers";
   }
 }
+// use extend to connect between two classes and use super in constructor
 class child extends fatherName {
   constructor(Cname, Cage) {
     super();
